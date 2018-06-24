@@ -1,0 +1,13 @@
+div {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.item {
+    border: 1px solid gray;
+}
+
+.selected {
+    color: red;
+    background-color: orange;
+}
